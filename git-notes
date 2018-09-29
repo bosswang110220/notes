@@ -13,3 +13,7 @@ grammar_cjkRuby: true
 * git commit -m "提交项目注释说明" 
 * git pull origin master 拉取远程项目 
 * git push -u origin master 提交本地项目到远程仓库
+* git remote add origin https://github.com/test/test.git 本地仓库关联远程仓库
+
+
+参考网址：https://blog.csdn.net/shj_php/article/details/78109916
